@@ -64,7 +64,7 @@ Enables collaboration across distributed entities.
 Creates virtual organizations that can share resources and data.
 One of the most important issues grid computing brings to businesses is the utilization of existing resources. Businesses have invested heavily in computing capacity, but more than 90 percent of it is sitting idle. With grid computing, businesses can connect unused assets, harness their collective power, and manage them as one big computer.
 
-How do you use grid computing?
+### How do you use grid computing?
 The concept of grid computing originated in research and academic communities. Similar to the Internet, businesses are using grid computing for new types of financial and business models.
 
 In the financial services sector, grid computing can speed up transactions, break down huge amounts of data, and provide a more stable IT environment in mission-critical environments.
@@ -72,15 +72,16 @@ Government agencies can use grids to pool, secure, and integrate huge amounts of
 Companies in the life sciences sector, which conduct genomic research and develop medicines, can use parallel grid computing to process and compare huge amounts of data. Faster processing means faster time to market, which is a critical factor.
 These new grid-oriented business models can be implemented, and some have already been implemented.
 
-Core Components of Grid Computing
+### Core Components of Grid Computing
 Grid computing has six main components:
 
-Security
-User Interface
-Workload Management
-Scheduler
-Data Management
-Resource Management
+
+  - Security
+  - User Interface
+  - Workload Management
+  - Scheduler
+  - Data Management
+  - Resource Management
 Let’s take a closer look at each one.
 
 Computers on the grid are networked and run applications. Because they process sensitive or highly valuable data, the security aspects of grid computing are very important. These include encryption, authentication, and authorization.
@@ -103,7 +104,7 @@ A resource management device is needed to handle the core tasks of starting a jo
 
 Grid computing does not operate in a vacuum. Rather, all protocols and computer technologies are potentially involved. Therefore, to fully understand the scope of grid computing's power, you need to understand other technologies and standards as well.
 
-Grid Computing and Standards
+### Grid Computing and Standards
 To understand grid computing standards, you also need to understand how grid architecture is defined. Let's look at the architecture definition of the Open Grid Services Architecture (OGSA) developed by members of the Global Grid Forum (GGF).
 
 Architecture -- OGSA defines what a grid service is, the overall structure and services provided in a grid environment. Based on existing web service standards, OGSA defines grid services as web services that conform to specific conventions. For example, grid services are defined in terms of the standard Web Services Definition Language (WSDL).
@@ -117,27 +118,27 @@ OGSA also provides interoperability between grids implemented using a variety of
 
 Specifications -- Grid specifications are evolving. Organizations such as GGF and OASIS are defining grid standards in areas such as:
 
-Applications and programming practices
-Architecture
-Data management
-Security
-Performance
-Scheduling and resource management
+  - Applications and programming practices
+  - Architecture
+  - Data management
+  - Security
+  - Performance
+  - Scheduling and resource management
 The Open Grid Services Infrastructure (OGSI) is the official specification for the concepts described by OGSA, but has been superseded by the Web Services Resource Framework (WSRF). The goal of WSRF is to evolve grid architecture in the manner of Web services. Instead of defining new types of grid services, this specification requires that services defined by OGSA rely entirely on standard Web services.
 
 How much do you need to know about the evolution of grid standards? It depends. IBM and various software researchers are defining grid standards. Are you a software developer at an enterprise? If so, you will be using grid tools and products based on new standards. Keep an eye on the standards and how they are progressing.
 
-Grid Implementation
+### Grid Implementation
 Grids can be implemented using open source and commercial tools and products. As grid standards become more established, vendors are demanding components that are compliant and easy to combine.
 
 What are the basic technologies required to implement a grid? What are the essential services for grid computing? The services are:
 
-Data query
-Data management
-Processor requests
-Workload balancing
-Job scheduling
-Bandwidth allocation
+  - Data query
+  - Data management
+  - Processor requests
+  - Workload balancing
+  - Job scheduling
+  - Bandwidth allocation
 These services are called grid services. Some computers host grid services, and some computers run applications that have contracted with grid services as clients. Grid services are essentially web services with additional functionality.
 
 Web services—groups of application functionality that can be called over a network—allow applications to communicate with each other, regardless of platform or programming language.
@@ -154,7 +155,7 @@ A good starting point for implementing a grid is to download the Globus Toolkit.
 
 The Commodity Grid Kit (CoG) provides access to grid services through specific frameworks such as Java, Python, and Perl.
 
-Applications for the grid
-This part requires some planning.
+  - Applications for the grid
+  - This part requires some planning.
 
 You need to think about the basic structure that will provide the grid and services. You need to think about how to fit together infrastructure components such as security, resource management, information services, and data management that will affect application architecture, design, and deployment.
