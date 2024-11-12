@@ -29,6 +29,7 @@ The primary purpose of the grid is to virtualize resources to solve problems. Th
   - Data storage/network file systems
   - Communication and bandwidth
   - Application software
+    
 Since the concept of applying the grid to real life is still new, another way to describe the grid is to identify what the grid is not. The following are not grids:
 
   - Clusters
