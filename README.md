@@ -1,5 +1,5 @@
 
-#Distributed Computing with Grid
+# Distributed Computing with Grid
 
  Grid computing has brought about a major shift in how we think about how to maximize the value of computing resources. The technology is still in its early stages, but the Grid Computing zone will continue to add new articles, tutorials, resources, and tools to help developers get up to speed on this important technology.
 
@@ -11,7 +11,7 @@ People who are interested in grid computing are asking some very basic questions
 
 ### What’s next?
 
-## In this chapter, you’ll learn about the great benefits of grid computing. It focuses on the fundamentals of grid computing, and it’s explained through articles, tutorials and tips, IBM training programs, workshops, and IBM products. It’s a simple, easy-to-understand introduction to grid computing, but it also covers the most important points.
+#### In this chapter, you’ll learn about the great benefits of grid computing. It focuses on the fundamentals of grid computing, and it’s explained through articles, tutorials and tips, IBM training programs, workshops, and IBM products. It’s a simple, easy-to-understand introduction to grid computing, but it also covers the most important points.
 
 The grid isn’t done yet, and grid technology is evolving rapidly. Standards, frameworks, implementations, and applications are constantly changing. Today, grid computing reminds us of the early days of the Web. It started slowly. The same was true with the advent of XML and Web services. However, once solid standards and tools emerge and mature, we can expect tremendous gains and growth in the world of grid computing.
 
@@ -25,16 +25,16 @@ In grid computing, organizations transform their distributed, hard-to-manage sys
 
 The primary purpose of the grid is to virtualize resources to solve problems. The primary resources of grid computing are many, but this chapter will limit them to:
 
-  -Computing/processing power
-  -Data storage/network file systems
-  -Communication and bandwidth
-  -Application software
+  - Computing/processing power
+  - Data storage/network file systems
+  - Communication and bandwidth
+  - Application software
 Since the concept of applying the grid to real life is still new, another way to describe the grid is to identify what the grid is not. The following are not grids:
 
-  -Clusters
-  -Network-attached storage devices
-  -Scientific instruments
-  -Networks
+  - Clusters
+  - Network-attached storage devices
+  - Scientific instruments
+  - Networks
 Each of these are important components of the grid, but they are not grids.
 
 So what is needed to bring the concept of grid computing to reality? Standards, fully open, common protocols and interfaces are needed. All of this is currently defined and is similar to making information accessible on the Web.
