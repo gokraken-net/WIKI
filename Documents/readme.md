@@ -27,3 +27,18 @@ Plaxxma is Training Programming Skill And Understading DeepLearing Algorithum.
 - Learning Point: Not Easy Mathmatic Calcuation And Data Bit Operation Shift
 - Future Plan: More Training Various Algorithum with C/C++
 
+### 3. LLM Programming Project
+- Goal: 
+- Howto: 
+- Duration: 
+- Issue And Challenge: 
+- Learning Point: 
+- Future Plan:
+
+- ### 4. Multi Modal DeepLearing Project
+- Goal: 
+- Howto: 
+- Duration: 
+- Issue And Challenge: 
+- Learning Point: 
+- Future Plan: 
