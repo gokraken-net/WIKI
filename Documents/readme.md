@@ -1,3 +1,6 @@
+# PLAXXMA
+Plaxxma is Training Programming Skill And Understading DeepLearing Algorithum.
+
 ## Index
 1. Python Data Programming Training
 2. C Algorthm Programming Training
