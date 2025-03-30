@@ -1,5 +1,5 @@
-# PLAXXMA
-Plaxxma is Training Programming Skill And Understading DeepLearing Algorithum.
+# Raw Template
+Raw is Training Programming Skill And Understading DeepLearing Algorithum.
 
 ## Index
 1. Python Data Programming Training
